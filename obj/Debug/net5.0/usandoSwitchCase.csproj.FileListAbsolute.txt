@@ -1,0 +1,16 @@
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\usandoSwitchCase.csproj.AssemblyReference.cache
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\usandoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\usandoSwitchCase.AssemblyInfoInputs.cache
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\usandoSwitchCase.AssemblyInfo.cs
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\usandoSwitchCase.csproj.CoreCompileInputs.cache
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\bin\Debug\net5.0\usandoSwitchCase.exe
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\bin\Debug\net5.0\usandoSwitchCase.deps.json
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\bin\Debug\net5.0\usandoSwitchCase.runtimeconfig.json
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\bin\Debug\net5.0\usandoSwitchCase.runtimeconfig.dev.json
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\bin\Debug\net5.0\usandoSwitchCase.dll
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\bin\Debug\net5.0\ref\usandoSwitchCase.dll
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\bin\Debug\net5.0\usandoSwitchCase.pdb
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\usandoSwitchCase.dll
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\ref\usandoSwitchCase.dll
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\usandoSwitchCase.pdb
+C:\projetos_ams\1ano\ArrayColRevisao\operadores\EstruturaSwitchCase\usandoSwitchCase\obj\Debug\net5.0\usandoSwitchCase.genruntimeconfig.cache
