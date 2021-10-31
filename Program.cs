@@ -9,6 +9,9 @@ namespace usandoSwitchCase
             string mes;
                 Console.WriteLine("Digite um mês:");
                 mes = Console.ReadLine();
+            
+            Console.WriteLine("");//Espaço
+            
            switch (mes)
            {
                case "janeiro":
