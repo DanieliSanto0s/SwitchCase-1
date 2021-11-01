@@ -7,7 +7,9 @@ namespace usandoSwitchCase
         static void Main(string[] args)
         {
             string mes;
+                Console.WriteLine("---------------");
                 Console.WriteLine("Digite um mês:");
+                Console.WriteLine("---------------");
                 mes = Console.ReadLine();
             
             Console.WriteLine("");//Espaço
